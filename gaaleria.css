@@ -1,0 +1,115 @@
+h2{
+	font-size: 4vw;
+	color:#8AB1F9;
+	display: flex;
+	justify-content: center;
+}
+body{
+	background-image: url("http://3.bp.blogspot.com/-S5dDO7mUPWs/VEu7LFcgHuI/AAAAAAAAAoE/yEtXgSWUUsc/s1600/Pulse_Wallpaper_Pack_by_NYMEZIDE.jpg"); 
+	background-size: 100% ;
+	background-repeat: no-repeat;
+}
+#todo1{
+	display: flex;
+}
+#todo2{
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: flex-start;
+	width: 60%;
+	
+}
+#todo3{
+	display: flex;
+	flex-wrap:wrap;
+	width: 40%;
+	justify-content: flex-end;
+
+}
+#marcas{
+	height: 40vw;
+	width: 45vw;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+
+
+}
+#contenido{
+	height: 550px;
+	width: 60%;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: flex-start;
+	flex-direction: column;
+}
+#CHEVROLET{
+	height: 7.7vw;
+	background-repeat: no-repeat;
+	width: 7.7vw;
+	background-size: 100% 100%;
+	background-image: url("C:/Users/sena/Desktop/pacheco/aplicacion/IMAGENES/imagen1.jpg")
+}
+#BMW{
+	height: 7.7vw;
+	background-repeat: no-repeat;
+	width: 7.7vw;
+	background-size: 100% 100%;
+	background-image: url("C:/Users/sena/Desktop/pacheco/aplicacion/IMAGENES/imagen2.jpg")
+}
+#FORD{
+	height: 7.7vw;
+	background-repeat: no-repeat;
+	width: 7.7vw;
+	background-size: 100% 100%;
+	background-image: url("C:/Users/sena/Desktop/pacheco/aplicacion/IMAGENES/imagen3.jpg")
+}
+#RENAULT{
+	height: 7.7vw;
+	background-repeat: no-repeat;
+	width: 7.7vw;
+	background-size: 100% 100%;
+	background-image: url("C:/Users/sena/Desktop/pacheco/aplicacion/IMAGENES/imagen4.jpg")
+}
+#TOYOTA{
+	height: 7.7vw;
+	background-repeat: no-repeat;
+	width: 7.7vw;
+	background-size: 100% 100%;
+	background-image: url("C:/Users/sena/Desktop/pacheco/aplicacion/IMAGENES/imagen5.jpg")
+}
+#MAZDA{
+	height: 7.7vw;
+	background-repeat: no-repeat;
+	width: 7.7vw;
+	background-size: 100% 100%;
+	background-image: url("C:/Users/sena/Desktop/pacheco/aplicacion/IMAGENES/imagen6.jpg")
+}
+#HYUNDAI{
+	height: 7.7vw;
+	background-repeat: no-repeat;
+	width: 7.7vw;
+	background-size: 100% 100%;
+	background-image: url("C:/Users/sena/Desktop/pacheco/aplicacion/IMAGENES/imagen7.jpg")
+}
+#KIA{
+	height: 7.7vw;
+	background-repeat: no-repeat;
+	width: 7.7vw;
+	background-size: 100% 100%;
+	background-image: url("C:/Users/sena/Desktop/pacheco/aplicacion/IMAGENES/imagen8.jpg")
+}
+#HONDA{
+	height: 7.7vw;
+	background-repeat: no-repeat;
+	width: 7.7vw;
+	background-size: 100% 100%;
+	background-image: url("C:/Users/sena/Desktop/pacheco/aplicacion/IMAGENES/imagen9.jpg")
+}
+#NISSAN{
+	height: 7.7vw;
+	background-repeat: no-repeat;
+	width: 7.7vw;
+	background-size: 100% 100%;
+	background-image: url("C:/Users/sena/Desktop/pacheco/aplicacion/IMAGENES/imagen10.jpg")
+}
